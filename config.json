@@ -1,0 +1,42 @@
+{
+  "name": "m.y.s.p",
+  "description": "MySQL Parser",
+  "version": "Alpha@2.0",
+  "main": "main.py",
+  "modes": {
+    "1": {
+      "name": "Debug Mode",
+      "alias": "debug_mode"
+    },
+    "2": {
+      "name": "Normal Mode",
+      "alias": "normal_mode"
+    }
+  },
+  "parsers": {
+    "inter_brasil": {
+      "name": "Inter Brasil",
+      "values": {
+        "ib_common": [
+          "solicitado em"
+        ],
+        "ib_bill": [
+          "despesas da fatura"
+        ]
+      }
+    },
+    "mercado_pago": {
+      "name": "Mercado Pago",
+      "values": {
+        "mp_common": [
+          "mercado pago instituição de pagamento ltda. cnpj n.º 10.573.521/0001-91.",
+          "encontre nossos canais de consulta em:www.mercadopago.com.br"
+        ],
+        "mp_bill": [
+          "detalhes de consumo",
+          "essa e sua fatura"
+        ]
+      }
+    }
+  }
+}

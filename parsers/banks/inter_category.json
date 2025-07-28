@@ -1,0 +1,130 @@
+[
+    {
+        "description": "pix enviado: \"cp :18236120-camila rodrigues veloso de jesus\" -r$ 10,00 -r$ 10,00",
+        "category": "OTHERS"
+    },
+    {
+        "description": "pix recebido: \"cp :10573521-gustavo ribeiro silva\" r$ 10,00 r$ 0,00",
+        "category": "OTHERS"
+    },
+    {
+        "description": "pix enviado: \"cp :10573521-gustavo ribeiro silva\" -r$ 310,36 -r$ 310,36",
+        "category": "OTHERS"
+    },
+    {
+        "description": "pix enviado: \"cp :10573521-gustavo ribeiro silva\" -r$ 689,64 -r$ 689,64",
+        "category": "OTHERS"
+    },
+    {
+        "description": "pix recebido: \"cp :10573521-gustavo ribeiro silva\" r$ 689,64 -r$ 0,00",
+        "category": "OTHERS"
+    },
+    {
+        "description": "pix enviado: \"cp :18236120-carolina ribeiro de freitas\" -r$ 28,55 -r$ 28,55",
+        "category": "FAMILY"
+    },
+    {
+        "description": "pix recebido: \"cp :10573521-gustavo ribeiro silva\" r$ 28,55 -r$ 0,00",
+        "category": "OTHERS"
+    },
+    {
+        "description": "pix recebido: \"cp :10573521-gustavo ribeiro silva\" r$ 10,00 r$ 0,10",
+        "category": "OTHERS"
+    },
+    {
+        "description": "pix recebido: \"cp :10573521-gustavo ribeiro silva\" r$ 20,18 r$ 0,10",
+        "category": "OTHERS"
+    },
+    {
+        "description": "pix enviado: \"cp :10573521-otaviano alves da silva\" -r$ 25,00 -r$ 24,90",
+        "category": "OTHERS"
+    },
+    {
+        "description": "pix recebido: \"cp :10573521-gustavo ribeiro silva\" r$ 25,00 r$ 0,10",
+        "category": "OTHERS"
+    },
+    {
+        "description": "compra no debito: \"no estabelecimento uber uber *trip help.u sp bra\" -r$ 19,97 -r$ 19,87",
+        "category": "TRANSPORT"
+    },
+    {
+        "description": "compra no debito: \"no estabelecimento uber uber *trip help.u sp bra\" -r$ 16,78 r$ 113,35",
+        "category": "TRANSPORT"
+    },
+    {
+        "description": "pix recebido: \"cp :18236120-celio da silva\" r$ 21,00 r$ 21,00",
+        "category": "FAMILY"
+    },
+    {
+        "description": "compra no debito: \"no estabelecimento ifd*kfcaraguaia9a29610 goiania bra\" -r$ 18 -r$ 20,08",
+        "category": "FOOD"
+    },
+    {
+        "description": "pix enviado: \"no estabelecimento ifd*kfcaraguaia9a29610 goiania bra\" -r$ 2,18 -r$ 20,08",
+        "category": "FOOD"
+    },
+        {
+        "description": "pix enviado: \"no estabelecimento kfc comida\" -r$ 20,18 -r$ 20,08",
+        "category": "FOOD"
+    },
+        {
+        "description": "compra no debito: \"no estabelecimento ifd*kfcaraguaia goiania bra\" -r$ 20 -r$ 20,08",
+        "category": "FOOD"
+    },
+    {
+        "description": "pix enviado: \"cp :00360305-aesfieg\" -r$ 9 -r$ 9,90",
+        "category": "SHOPPING"
+    },
+    {
+        "description": "pagamento efetuado: \"pagamento fatura cartao inter\" -r$ 20 -r$ 29,89",
+        "category": "BILL"
+    },
+    {
+        "description": "pagamento efetuado: \"pagamento fatura cartao inter\" -r$ 20 -r$ 29,89",
+        "category": "BILL"
+    },
+    {
+        "description": "18 de mar. 2025 mercadolivre*quantumn (parcela 02 de 02) - r$ 42,05",
+        "category": "SHOPPING"
+    },
+    {
+        "description": "18 de fev. 2025 mercadolivre*quantumn (parcela 01 de 02) - r$ 42,05",
+        "category": "SHOPPING"
+    },
+    {
+        "description": "18 de abr. 2025 wellhub gympass br gym - r$ 59,90",
+        "category": "HEALTH"
+    },
+    {
+        "description": "15 de mai. 2025 wellhub gympass br gym - r$ 59,90",
+        "category": "HEALTH"
+    },
+    {
+        "description": "18 de jun. 2025 wellhub gympass br gym - r$ 59,90",
+        "category": "HEALTH"
+    },
+    {
+        "description": "26 de abr. 2025 ifd*torreal produtos a - r$ 48,97",
+        "category": "FOOD"
+    },
+    {
+        "description": "29 de abr. 2025 uber uber *trip help.u - r$ 26,22",
+        "category": "TRANSPORT"
+    },
+    {
+        "description": "29 de abr. 2025 uber uber *trip help.u - r$ 39,39",
+        "category": "TRANSPORT"
+    },
+    {
+        "description": "01 de mai. 2025 google youtube - r$ 41,90",
+        "category": "SIGNATURE"
+    },
+    {
+        "description": "01 de mai. 2025 netflix - r$ 20",
+        "category": "SIGNATURE"
+    },
+    {
+        "description": "05 de jun. 2025 google youtube  - r$ 20",
+        "category": "SIGNATURE"
+    }
+]
